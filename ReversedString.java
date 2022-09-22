@@ -1,5 +1,5 @@
-public class Algorithms {
-    public static String reversedString(String str) {
+public class ReversedString {
+    public static String solution(String str) {
         // Your code here...
 
         char[] charArr = str.toCharArray();
