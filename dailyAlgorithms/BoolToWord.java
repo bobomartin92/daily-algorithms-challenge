@@ -1,3 +1,5 @@
+package dailyAlgorithms;
+
 public class BoolToWord {
 //    Convert boolean values to strings 'Yes' or 'No'.
 //

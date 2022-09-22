@@ -1,3 +1,5 @@
+package dailyAlgorithms;
+
 public class ReversedString {
     public static String solution(String str) {
         // Your code here...

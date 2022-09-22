@@ -1,3 +1,5 @@
+package dailyAlgorithms;
+
 public class PaperWork {
 //    Beginner Series #1 School Paperwork
 

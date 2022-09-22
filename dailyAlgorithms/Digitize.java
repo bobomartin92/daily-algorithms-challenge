@@ -1,3 +1,5 @@
+package dailyAlgorithms;
+
 public class Digitize {
 
 //    Convert number to reversed array of digits
